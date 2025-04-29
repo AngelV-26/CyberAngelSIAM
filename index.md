@@ -94,7 +94,7 @@ end
 
 ### Small image
 
-![Octocat](https://github.githubassets.com/Azure Lab.png)
+![Octocat](https://github.githubassets.com/Micorsoft Security.png)
 
 ### Large image
 
