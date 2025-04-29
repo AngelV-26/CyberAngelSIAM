@@ -75,3 +75,18 @@ Currently expanding skills in:
 	•	Python for cybersecurity automation
 	•	API security testing
 	•	Building dynamic security dashboards with Tableau
+
+
+
+
+ 📜 Certifications and Training
+	•	DataCamp: Python Programming Track (In Progress)
+	•	OWASP Top 10 Web Application Security (Self-Study Completed)
+	•	Security+ Certification (Planned)
+
+⸻
+
+📝 Contact Me
+	•	LinkedIn: Your LinkedIn
+	•	GitHub: Your GitHub
+	•	Email: yourname@email.com
