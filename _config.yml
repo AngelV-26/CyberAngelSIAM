@@ -1,6 +1,5 @@
 url: "" # the base hostnames & protocol for your site
-remote_theme: pages-theme/hacker@v0.2.0 
-title: Cyber Angel's Portfolio of Cyber Security Projects
+title: [Cyber Angel's Portfolio of Cyber Security Projects]
 description: Showcase my skills for my future employer. 
 show_downloads: true
 google_analytics:
