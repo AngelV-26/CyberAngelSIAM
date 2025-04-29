@@ -26,10 +26,42 @@ I'm passionate about **security, continuous learning, and protecting critical sy
 
 # 📚 Featured Projects
 
-## 1. **IAM Automation Scripts**
-_Automating identity provisioning and deprovisioning processes using Python scripts integrated with Okta APIs._  
+## 1. # Azure SIEM Monitoring Lab**
 
-**Technologies:** Python, Okta API, Git
+## Project Overview
+This project demonstrates how I deployed and configured Microsoft Sentinel (Azure SIEM) to monitor a Windows Virtual Machine (VM) for real-time security events hosted on Azure.
+
+## Technologies Used
+- Microsoft Sentinel (Azure SIEM)
+- Azure Virtual Machine (Ubuntu/Windows)
+- Azure Log Analytics
+- Security Event Monitoring (Syslog / Windows Event Logs)
+- KQL (Kusto Query Language) for threat hunting
+
+## Project Objectives
+- Deploy an Azure Log Analytics workspace
+- Connect the VM to the workspace for security event collection
+- Deploy and configure Microsoft Sentinel
+- Build analytic rules and alerts
+- Create dashboards for threat visibility
+- Test alerts with simulated attacks (e.g., failed login attempts)
+
+## Key Features
+- Real-time monitoring of VM login activities
+- Custom alerts for suspicious behavior
+- Dashboard visualization of critical security events
+- Automated incident creation and notification setup
+
+## Screenshots
+### 1. Sentinel Dashboard
+![Sentinel Dashboard Screenshot](link_to_your_image)
+
+### 2. Active Alerts
+![Active Alerts Screenshot](link_to_your_image)
+
+### 3. Log Query Example (KQL)
+```kql
+SecurityEvent
 
 [View Project ➔](https://github.com/YourGitHubUsername/IAM-Automation)
 
