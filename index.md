@@ -1,123 +1,77 @@
----
-layout: default
----
+🚀 Cyber Angel’s Portfolio of Cyber Security Projects
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
+⸻
 
-[Link to another page](./another-page.html).
+Welcome to Cyber Angel’s Cybersecurity Portfolio
 
-There should be whitespace between paragraphs.
+A showcase of my professional cybersecurity skills, projects, and learning journey.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+View on GitHub
 
-# Header 1
+⸻
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+🛡️ About Me
 
-## Header 2
+Hi, I’m Cyber Angel — a cybersecurity enthusiast with over 10 years of IT experience, specializing in:
+	•	Identity & Access Management (IAM)
+	•	Application Security Testing (DAST)
+	•	Risk Management and Compliance (SOX, NIST, FFIEC)
+	•	MFA Implementation (Okta, YubiKey)
+	•	Python Scripting (In Progress)
+	•	Cloud Security Fundamentals (Entra ID, Conditional Access)
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+I’m passionate about security, continuous learning, and protecting critical systems.
 
-### Header 3
+⸻
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+📚 Featured Projects
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+1. IAM Automation Scripts
 
-#### Header 4
+Automating identity provisioning and deprovisioning processes using Python scripts integrated with Okta APIs.
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+Technologies: Python, Okta API, Git
 
-##### Header 5
+View Project ➔
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+⸻
 
-###### Header 6
+2. DAST Vulnerability Management Playbook
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+A structured playbook for executing DAST assessments, triaging findings, validating remediations, and reporting for compliance audits.
 
-### There's a horizontal rule below this.
+Tools: OWASP ZAP, Burp Suite, WebInspect
 
-* * *
+View Project ➔
 
-### Here is an unordered list:
+⸻
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+3. Entra ID Access Policy Lab
 
-### And an ordered list:
+Lab project on managing Conditional Access Policies, enforcing MFA, and setting least-privilege permissions inside Microsoft Entra ID (Azure AD).
 
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
+Tools: Entra ID (Azure AD), Okta, YubiKey
 
-### And a nested list:
+View Project ➔
 
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
+⸻
 
-### Small image
+✨ Skills Overview
+	•	IAM Platforms: Okta, Azure AD (Entra ID)
+	•	Application Security Testing: DAST Scanning, False Positive Analysis
+	•	Security Compliance: SOX ITGC, PCI DSS, NIST 800-53
+	•	Authentication Methods: Passwordless MFA (YubiKey), Conditional Access
+	•	Programming: Python (Learning through DataCamp)
+	•	Security Tools: Burp Suite, OWASP ZAP, Splunk
 
-![Octocat](https://github.githubassets.com/Micorsoft Security.png)
+⸻
 
-### Large image
+📈 My Learning Journey
 
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+“When something is important enough, you do it even if the odds are not in your favor.”
+— Elon Musk
 
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+Currently expanding skills in:
+	•	Python for cybersecurity automation
+	•	API security testing
+	•	Building dynamic security dashboards with Tableau
