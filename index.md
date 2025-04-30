@@ -54,7 +54,7 @@ This project demonstrates how I deployed and configured Microsoft Sentinel (Azur
 
 # Screenshots
  1. Sentinel Overview
-![Sentinel Overview Screenshot](images/Sentinel_Incident_Login_Attempt.png)
+![Sentinel Overview Screenshot](images/SentinelIncidentLoginAttempt.png)
 
 2. Active Alerts
 ![Active Alerts Screenshot](images/Incidents.png)
