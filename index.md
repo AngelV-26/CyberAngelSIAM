@@ -60,9 +60,13 @@ This project demonstrates how I deployed and configured Microsoft Sentinel (Azur
 ![Active Alerts Screenshot](link_to_your_image)
 
 ### 3. Log Query Example (KQL)
-```SecurityEvent
+SecurityEvent
+[| where Activity contains "success" and Account !contains "system"]
 
+Advanced Multistage Attack Detection
 
+Description: 
+"Microsoft Sentinel uses Fusion, a correlation engine based on scalable machine learning algorithms, to automatically detect multistage attacks by identifying combinations of anomalous behaviors and suspicious activities that are observed at various stages of the kill chain. On the basis of these discoveries, Azure Sentinel generates incidents that would otherwise be very difficult to catch. By design, these incidents are low-volume, high-fidelity, and high-severity, which is why this detection is turned ON by default."
 
 ---
 
@@ -105,24 +109,6 @@ Currently expanding skills in:
 - API security testing
 - Building dynamic security dashboards with Tableau
 
----
-
-# ⚙️ Sample Code Snippet (Python)
-
-```javascript
-// Javascript example
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby example
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
 
 ---
 
