@@ -3,7 +3,7 @@
 
 ---
 
-## Welcome to **Cyber Angel's Cybersecurity Portfolio**  
+## Welcome to yber Angel's Cybersecurity Portfolio
 _A showcase of my professional cybersecurity skills, projects, and learning journey._  
 
 View on [GitHub](https://github.com/AngelV-26)
@@ -149,7 +149,9 @@ Currently expanding skills in:
 
 - DataCamp: Python Programming Track (In Progress)
 - OWASP Top 10 Web Application Security (Self-Study Completed)
+- Network+ 009 Certification (In Progress)
 - Security+ Certification (In Progress)
+- Essential Cyber Defense – NCAE-C UWF (Completed)
 
 ---
 
