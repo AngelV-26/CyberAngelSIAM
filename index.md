@@ -70,12 +70,45 @@ Description:
 
 ---
 
-## 2. **DAST Vulnerability Management Playbook**
-_A structured playbook for executing DAST assessments, triaging findings, validating remediations, and reporting for compliance audits._  
+## 2.# 🔐 Python Password Rotation Script
 
-**Tools:** OWASP ZAP, Burp Suite, WebInspect  
+Welcome to my cybersecurity automation project!
 
-[View Project ➔](https://github.com/YourGitHubUsername/DAST-Playbook)
+This Python script generates secure, random passwords for privileged accounts and simulates vault storage using timestamped files. It demonstrates key principles of PAM (Privileged Access Management) and is a great introduction to automation in identity security.
+
+---
+
+## 📂 Features
+
+- Random password generation using `secrets` and `string`
+- Vault simulation folder with auto-generated `.txt` files
+- Timestamped output for rotation tracking
+- Simple to expand: encryption, logging, or API integration
+
+---
+
+## 💡 Technologies Used
+
+- Python 3
+- `secrets` + `string` for password generation
+- File handling with `os` and `datetime`
+
+---
+
+## 📸 Screenshots
+
+[Screenshot](screenshots/sample_output.png)
+<sub>Each password is saved with the username and a timestamp, simulating a real rotation process.</sub>
+
+---
+
+## You can try it yourself! 
+
+''bash
+git clone https://github.com/angelv-26/python-password-rotation-script.git
+cd python-password-rotation-script
+python rotate_passwords.py
+[View Project ➔](https://github.com/AngelV-26/python-password-rotation-script)
 
 ---
 
