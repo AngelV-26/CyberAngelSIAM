@@ -11,7 +11,7 @@ View on [GitHub](https://github.com/AngelV-26)
 ---
 
 # 🛡️ About Me
-Hi, I'm **Cyber Angel** — a cybersecurity enthusiast with over **10 years of IT experience**, specializing in:
+Hi, I'm ** Angelo** — a cybersecurity enthusiast with over **10 years of IT experience**, specializing in:
 
 - Identity & Access Management (IAM)
 - Application Security Testing (DAST)
@@ -66,7 +66,7 @@ SecurityEvent
 Advanced Multistage Attack Detection
 
 Description: 
-"Microsoft Sentinel uses Fusion, a correlation engine based on scalable machine learning algorithms, to automatically detect multistage attacks by identifying combinations of anomalous behaviors and suspicious activities that are observed at various stages of the kill chain. On the basis of these discoveries, Azure Sentinel generates incidents that would otherwise be very difficult to catch. By design, these incidents are low-volume, high-fidelity, and high-severity, which is why this detection is turned ON by default."
+"Microsoft Sentinel uses Fusion, a correlation engine based on scalable machine learning algorithms, to automatically detect multistage attacks by identifying combinations of anomalous behaviors and suspicious activities that are observed at various stages of the kill chain. Based on these discoveries, Azure Sentinel generates incidents that would otherwise be very difficult to catch. By design, these incidents are low-volume, high-fidelity, and high-severity, so this detection is turned ON by default."
 
 ---
 
