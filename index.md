@@ -60,10 +60,9 @@ This project demonstrates how I deployed and configured Microsoft Sentinel (Azur
 ![Active Alerts Screenshot](link_to_your_image)
 
 ### 3. Log Query Example (KQL)
-```kql
-SecurityEvent
+```SecurityEvent
 
-[View Project ➔](https://github.com/YourGitHubUsername/IAM-Automation)
+
 
 ---
 
