@@ -3,7 +3,7 @@
 
 ---
 
-## Welcome to yber Angel's Cybersecurity Portfolio
+## Welcome to Cyber Angel's Cybersecurity Portfolio
 _A showcase of my professional cybersecurity skills, projects, and learning journey._  
 
 View on [GitHub](https://github.com/AngelV-26)
@@ -26,7 +26,7 @@ I'm passionate about security, continuous learning, and protecting critical syst
 
 # 📚 Featured Projects
 
-#1. # Azure SIEM Monitoring Lab
+#1. Azure SIEM Monitoring Lab
 
 # Project Overview
 This project demonstrates how I deployed and configured Microsoft Sentinel (Azure SIEM) to monitor a Windows Virtual Machine (VM) for real-time security events hosted on Azure.
@@ -79,7 +79,7 @@ This Python script generates secure, random passwords for privileged accounts an
 
 ---
 
-## 📂 Features
+# 📂 Features
 
 - Random password generation using `secrets` and `string`
 - Vault simulation folder with auto-generated `.txt` files
@@ -88,7 +88,7 @@ This Python script generates secure, random passwords for privileged accounts an
 
 ---
 
-## 💡 Technologies Used
+# 💡 Technologies Used
 
 - Python 3
 - `secrets` + `string` for password generation
@@ -96,7 +96,7 @@ This Python script generates secure, random passwords for privileged accounts an
 
 ---
 
-## 📸 Screenshots
+##📸 Screenshots
 
 [Screenshot](screenshots/Sentinel_Incident_Login_Attempt.png)
 <sub>Each password is saved with the username and a timestamp, simulating a real rotation process.</sub>
@@ -113,7 +113,7 @@ python rotate_passwords.py
 
 ---
 
-## 3. Entra ID Access Policy Lab (In Progres)
+## 3. Entra ID Access Policy Lab (In Progress)
 _Lab project on managing Conditional Access Policies, enforcing MFA, and setting least-privilege permissions inside Microsoft Entra ID (Azure AD)._  
 
 Tools:Entra ID (Azure AD), Okta, YubiKey
@@ -190,7 +190,7 @@ Ordered list:
 # 📖 Quick Definitions
 
 Name: Angelo V 
-Born: In the world of technology  
+Born In the world of technology  
 Passion: Cybersecurity, Identity, Access Management  
 Motto: Learn, Protect, Empower
 
