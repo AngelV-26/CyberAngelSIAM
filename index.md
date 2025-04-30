@@ -53,13 +53,14 @@ This project demonstrates how I deployed and configured Microsoft Sentinel (Azur
 - Automated incident creation and notification setup
 
 ## Screenshots
-### 1. Sentinel Dashboard
-![Sentinel Dashboard Screenshot](link_to_your_image)
+### 1. Sentinel Overview
+![Sentinel Overview Screenshot](images/Sentinel_Incident_Login_Attempt.png)
 
 ### 2. Active Alerts
-![Active Alerts Screenshot](link_to_your_image)
+![Active Alerts Screenshot](images/Incidents.png)
 
 ### 3. Log Query Example (KQL)
+![Active Alerts Screenshot](images/Sentinel_Analytics_rule.png)
 SecurityEvent
 [| where Activity contains "success" and Account !contains "system"]
 
