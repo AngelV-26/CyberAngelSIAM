@@ -11,7 +11,7 @@ View on [GitHub](https://github.com/AngelV-26)
 ---
 
 # 🛡️ About Me
-Hi, I'm ** Angelo** — a cybersecurity enthusiast with over **10 years of IT experience**, specializing in:
+Hi, I'm Angelo — a cybersecurity enthusiast with over 10 years of IT experience, specializing in:
 
 - Identity & Access Management (IAM)
 - Application Security Testing (DAST)
@@ -20,25 +20,25 @@ Hi, I'm ** Angelo** — a cybersecurity enthusiast with over **10 years of IT ex
 - Python Scripting (In Progress)
 - Cloud Security Fundamentals (Entra ID, Conditional Access)
 
-I'm passionate about **security, continuous learning, and protecting critical systems.**
+I'm passionate about security, continuous learning, and protecting critical systems.
 
 ---
 
 # 📚 Featured Projects
 
-## 1. # Azure SIEM Monitoring Lab**
+#1. # Azure SIEM Monitoring Lab
 
-## Project Overview
+# Project Overview
 This project demonstrates how I deployed and configured Microsoft Sentinel (Azure SIEM) to monitor a Windows Virtual Machine (VM) for real-time security events hosted on Azure.
 
-## Technologies Used
+# Technologies Used
 - Microsoft Sentinel (Azure SIEM)
 - Azure Virtual Machine (Ubuntu/Windows)
 - Azure Log Analytics
 - Security Event Monitoring (Syslog / Windows Event Logs)
 - KQL (Kusto Query Language) for threat hunting
 
-## Project Objectives
+# Project Objectives
 - Deploy an Azure Log Analytics workspace
 - Connect the VM to the workspace for security event collection
 - Deploy and configure Microsoft Sentinel
@@ -46,20 +46,20 @@ This project demonstrates how I deployed and configured Microsoft Sentinel (Azur
 - Create dashboards for threat visibility
 - Test alerts with simulated attacks (e.g., failed login attempts)
 
-## Key Features
+# Key Features
 - Real-time monitoring of VM login activities
 - Custom alerts for suspicious behavior
 - Dashboard visualization of critical security events
 - Automated incident creation and notification setup
 
-## Screenshots
-### 1. Sentinel Overview
+# Screenshots
+ 1. Sentinel Overview
 ![Sentinel Overview Screenshot](images/Sentinel_Incident_Login_Attempt.png)
 
-### 2. Active Alerts
+2. Active Alerts
 ![Active Alerts Screenshot](images/Incidents.png)
 
-### 3. Log Query Example (KQL)
+3. Log Query Example (KQL)
 ![Active Alerts Screenshot](images/Sentinel_Analytics_rule.png)
 SecurityEvent
 [| where Activity contains "success" and Account !contains "system"]
@@ -98,7 +98,7 @@ This Python script generates secure, random passwords for privileged accounts an
 
 ## 📸 Screenshots
 
-[Screenshot](screenshots/sample_output.png)
+[Screenshot](screenshots/Sentinel_Incident_Login_Attempt.png)
 <sub>Each password is saved with the username and a timestamp, simulating a real rotation process.</sub>
 
 ---
@@ -113,10 +113,10 @@ python rotate_passwords.py
 
 ---
 
-## 3. **Entra ID Access Policy Lab**
+## 3. Entra ID Access Policy Lab (In Progres)
 _Lab project on managing Conditional Access Policies, enforcing MFA, and setting least-privilege permissions inside Microsoft Entra ID (Azure AD)._  
 
-**Tools:** Entra ID (Azure AD), Okta, YubiKey
+Tools:Entra ID (Azure AD), Okta, YubiKey
 
 [View Project ➔](https://github.com/YourGitHubUsername/Entra-ID-Lab)
 
@@ -124,19 +124,18 @@ _Lab project on managing Conditional Access Policies, enforcing MFA, and setting
 
 # ✨ Skills Overview
 
-- **IAM Platforms:** Okta, Azure AD (Entra ID)
-- **Application Security Testing:** DAST Scanning, False Positive Analysis
-- **Security Compliance:** SOX ITGC, PCI DSS, NIST 800-53
-- **Authentication Methods:** Passwordless MFA (YubiKey), Conditional Access
-- **Programming:** Python (Learning through DataCamp)
-- **Security Tools:** Burp Suite, OWASP ZAP, Splunk
+- IAM Platforms: Okta, Azure AD (Entra ID)
+- Application Security Testing: False Positive Analysis
+- Security Compliance: SOX ITGC, PCI DSS, NIST 800-53
+- Authentication Methods: Passwordless MFA (YubiKey), Conditional Access
+- Programming: Python (Learning through DataCamp)
+- Security Tools: Burp Suite, OWASP ZAP, Splunk
 
 ---
 
 # 📈 My Learning Journey
 
-> “When something is important enough, you do it even if the odds are not in your favor.”  
-> — Elon Musk
+> “Today can be your day, don't give up."
 
 Currently expanding skills in:
 - Python for cybersecurity automation
@@ -148,17 +147,17 @@ Currently expanding skills in:
 
 # 📜 Certifications and Training
 
-- DataCamp: Python Programming Track *(In Progress)*
-- OWASP Top 10 Web Application Security *(Self-Study Completed)*
-- Security+ Certification *(Planned)*
+- DataCamp: Python Programming Track (In Progress)
+- OWASP Top 10 Web Application Security (Self-Study Completed)
+- Security+ Certification (In Progress)
 
 ---
 
 # 📝 Contact Me
 
-- **LinkedIn:** [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- **GitHub:** [Your GitHub](https://github.com/YourGitHubUsername)
-- **Email:** yourname@email.com
+- LinkedIn:[Your LinkedIn](https://www.linkedin.com/in/angelo-vasquez/)
+- GitHub: [Your GitHub](https://github.com/AngelV-26/CyberAngelsPortfolio)
+- Email: Angelo.vasquez0826@gmail.com
 
 ---
 
@@ -174,12 +173,12 @@ Currently expanding skills in:
 
 # 📋 Lists
 
-**Unordered list:**
+Unordered list:
 - Cybersecurity Enthusiast
 - Identity Defender
 - Future Ethical Hacker
 
-**Ordered list:**
+Ordered list:
 1. Learn every day
 2. Build real-world projects
 3. Help organizations stay secure
@@ -188,10 +187,10 @@ Currently expanding skills in:
 
 # 📖 Quick Definitions
 
-**Name:** Cyber Angel  
-**Born:** In the world of technology  
-**Passion:** Cybersecurity, Identity, Access Management  
-**Motto:** Learn, Protect, Empower
+Name: Angelo V 
+Born: In the world of technology  
+Passion: Cybersecurity, Identity, Access Management  
+Motto: Learn, Protect, Empower
 
 ---
 
