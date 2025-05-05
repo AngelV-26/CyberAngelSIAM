@@ -41,7 +41,6 @@ https://angelv-26.github.io/CyberAngelsPortfolio
 🤝 Come on, Let’s Connect!
 
 If you’re looking for someone with real hands-on security experience, a passion for practical solutions, and the ability to bridge tech and end-user needs — let’s talk.
-Find me on LinkedIn or reach out through GitHub!
 
 
 
