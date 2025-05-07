@@ -1,16 +1,16 @@
 
-# 🚀 Cyber Angel's Portfolio of Cyber Security Projects
+🚀 Cyber Angel's Portfolio
 
 ---
 
-## Welcome to Cyber Angel's Cybersecurity Portfolio
+Welcome to Cyber Angel's Portfolio
 _A showcase of my professional cybersecurity skills, projects, and learning journey._  
 
 View on [GitHub](https://github.com/AngelV-26)
 
 ---
 
-# 🛡️ About Me
+🛡️ About Me
 Hi, I'm Angelo — a cybersecurity enthusiast with over 10 years of IT experience, specializing in:
 
 - Identity & Access Management (IAM)
@@ -24,21 +24,21 @@ I'm passionate about security, continuous learning, and protecting critical syst
 
 ---
 
-# 📚 Featured Projects
+📚 Featured Projects
 
-#1. Azure SIEM Monitoring Lab
+1. Azure SIEM Monitoring Lab
 
-# Project Overview
+Project Overview
 This project demonstrates how I deployed and configured Microsoft Sentinel (Azure SIEM) to monitor a Windows Virtual Machine (VM) for real-time security events hosted on Azure.
 
-# Technologies Used
+Tech/Apps Used
 - Microsoft Sentinel (Azure SIEM)
 - Azure Virtual Machine (Ubuntu/Windows)
 - Azure Log Analytics
 - Security Event Monitoring (Syslog / Windows Event Logs)
 - KQL (Kusto Query Language) for threat hunting
 
-# Project Objectives
+Project Objectives
 - Deploy an Azure Log Analytics workspace
 - Connect the VM to the workspace for security event collection
 - Deploy and configure Microsoft Sentinel
@@ -71,7 +71,7 @@ Description:
 
 ---
 
-## 2.# 🔐 Python Password Rotation Script
+2.# 🔐 Python Password Rotation Script
 
 Welcome to my cybersecurity automation project!
 
@@ -79,7 +79,7 @@ This Python script generates secure, random passwords for privileged accounts an
 
 ---
 
-# 📂 Features
+📂 Features
 
 - Random password generation using `secrets` and `string`
 - Vault simulation folder with auto-generated `.txt` files
@@ -88,7 +88,7 @@ This Python script generates secure, random passwords for privileged accounts an
 
 ---
 
-# 💡 Technologies Used
+💡 Technologies Used
 
 - Python 3
 - `secrets` + `string` for password generation
@@ -96,14 +96,14 @@ This Python script generates secure, random passwords for privileged accounts an
 
 ---
 
-##📸 Screenshots
+📸 Screenshots
 
 [Screenshot](screenshots/Sentinel_Incident_Login_Attempt.png)
 <sub>Each password is saved with the username and a timestamp, simulating a real rotation process.</sub>
 
 ---
 
-## You can try it yourself! 
+You can try it yourself! 
 
 ''bash
 git clone https://github.com/angelv-26/python-password-rotation-script.git
@@ -113,7 +113,7 @@ python rotate_passwords.py
 
 ---
 
-## 3. Entra ID Access Policy Lab (In Progress)
+3. Entra ID Access Policy Lab (In Progress)
 _Lab project on managing Conditional Access Policies, enforcing MFA, and setting least-privilege permissions inside Microsoft Entra ID (Azure AD)._  
 
 Tools:Entra ID (Azure AD), Okta, YubiKey
@@ -122,7 +122,7 @@ Tools:Entra ID (Azure AD), Okta, YubiKey
 
 ---
 
-# ✨ Skills Overview
+✨ Skills Overview
 
 - IAM Platforms: Okta, Azure AD (Entra ID)
 - Application Security Testing: False Positive Analysis
@@ -133,7 +133,7 @@ Tools:Entra ID (Azure AD), Okta, YubiKey
 
 ---
 
-# 📈 My Learning Journey
+ 📈 My Learning Journey
 
 > “Today can be your day, don't give up."
 
@@ -145,7 +145,7 @@ Currently expanding skills in:
 
 ---
 
-# 📜 Certifications and Training
+📜 Certifications and Training
 
 - DataCamp: Python Programming Track (In Progress)
 - OWASP Top 10 Web Application Security (Self-Study Completed)
@@ -155,7 +155,7 @@ Currently expanding skills in:
 
 ---
 
-# 📝 Contact Me
+📝 Contact Me
 
 - LinkedIn:[Your LinkedIn](https://www.linkedin.com/in/angelo-vasquez/)
 - GitHub: [Your GitHub](https://github.com/AngelV-26/CyberAngelsPortfolio)
@@ -163,17 +163,17 @@ Currently expanding skills in:
 
 ---
 
-# 🖼️ Small Image
+🖼️ Small Image
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
 ---
 
-# 🖼️ Large Image
+🖼️ Large Image
 ![Branching](https://docs.github.com/assets/images/help/branch/branch-diagram.png)
 
 ---
 
-# 📋 Lists
+📋 Lists
 
 Unordered list:
 - Cybersecurity Enthusiast
@@ -187,20 +187,20 @@ Ordered list:
 
 ---
 
-# 📖 Quick Definitions
+📖 Quick Definitions
 
 Name: Angelo V 
-Born In the world of technology  
+Born in the world of technology  
 Passion: Cybersecurity, Identity, Access Management  
 Motto: Learn, Protect, Empower
 
 ---
 
-# ➖ Horizontal Rule
+➖ Horizontal Rule
 
 ---
 
-# ✅ Final Section
+✅ Final Section
 
 Thank you for visiting my portfolio!  
 I look forward to connecting, learning, and growing in the cybersecurity field.
