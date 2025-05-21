@@ -173,16 +173,6 @@ Currently expanding skills in:
 
 ---
 
-🖼️ Small Image
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
----
-
-🖼️ Large Image
-![Branching](https://docs.github.com/assets/images/help/branch/branch-diagram.png)
-
----
-
 📋 Lists
 
 Unordered list:
