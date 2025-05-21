@@ -1,6 +1,6 @@
 Portfolio
-logo: /images/straw_hat.png
-description: A showcase of my skills for my future employer, Showcasing IAM, Risk Management projects and more!
+logo:/images/straw_hat.png
+description: A showcase of my skills for my future employer, Showcasing IAM, Risk Management projects, and more!
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
