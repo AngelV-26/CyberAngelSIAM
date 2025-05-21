@@ -54,7 +54,7 @@ Project Objectives
 
 # Screenshots
  1. Sentinel Overview
-![Sentinel Overview Screenshot](images/SentinelIncidentLoginAttempt.png)
+![Sentinel Overview Screenshot](images/Sentinel_Incident_Login_Attempt.png)
 
 2. Active Alerts
 ![Active Alerts Screenshot](images/Incidents.png)
@@ -118,7 +118,7 @@ _Lab project on managing Conditional Access Policies, enforcing MFA, and setting
 
 Tools:Entra ID (Azure AD), Okta, YubiKey
 
-[View Project ➔](https://github.com/YourGitHubUsername/Entra-ID-Lab)
+[View Project ➔](WIP)
 
 ---
 
@@ -147,11 +147,21 @@ Currently expanding skills in:
 
 📜 Certifications and Training
 
-- DataCamp: Python Programming Track (In Progress)
 - OWASP Top 10 Web Application Security (Self-Study Completed)
-- Network+ 009 Certification (In Progress)
-- Security+ Certification (In Progress)
+- CompTIA Network+ 009 Certification (In Progress)
+- CompTIA Security+ Certification (In Progress)
 - Essential Cyber Defense – NCAE-C UWF (Completed)
+- Data Camp: Python & SQL for Data Analysis
+- PyCharm Development Environment (active)
+- Kaggle: Introduction to Programming & Python
+- AWS Cloud Practitioner (in progress)
+- Microsoft Azure AZ-900 (in progress)
+- EC-Council Certified Cybersecurity Technician (C|CT)
+- Linux+ XK0-005 (expected 08/2025)
+- Generative AI for Cybersecurity – EC-Council
+- Essential Cyber Defense – NCAE-C UWF
+
+ 
 
 ---
 
