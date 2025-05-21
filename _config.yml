@@ -1,6 +1,6 @@
-Portfolio
-logo:/images/straw_hat.png
-Description: A showcase of my skills for my future employer, Showcasing IAM, Risk Management projects, and more!
+title: "Cyber Angel's Portfolio"
+logo: "/images/straw_hat.png"
+Description: "A showcase of my skills for my future employer, showcasing IAM, Risk Management projects, and more!"
 show_downloads: true
-google_analytics:
 theme: jekyll-theme-minimal
+google_analytics: UA-123456789-1
