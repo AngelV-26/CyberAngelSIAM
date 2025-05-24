@@ -34,7 +34,7 @@ I built this portfolio to:
 ⸻
 
 🔗 Please Visit my live project showcase at:
-https://angelv-26.github.io/CyberAngelsPortfolio
+https://angelv-26.github.io/CyberAngelsFirstPortfolio/
 
 ⸻
 
